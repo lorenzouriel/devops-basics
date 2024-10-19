@@ -1,3 +1,5 @@
+# Code to build and publish my maven artifact to azure devops
+
 trigger:
 - main
 
