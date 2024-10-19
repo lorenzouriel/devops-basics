@@ -79,7 +79,7 @@
 </head>
 <body>
     <header>
-        <h1>Bem-vindo ao Meu Site Bonitão</h1>
+        <h1>Bem-vindo ao Meu Site - Lorenzo Uriel</h1>
     </header>
 
     <nav>
@@ -87,21 +87,6 @@
         <a href="#servicos">Serviços</a>
         <a href="#contato">Contato</a>
     </nav>
-
-    <section id="sobre">
-        <h2>Sobre Nós</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus euismod, justo a tincidunt pretium, elit urna vehicula augue, nec consequat turpis risus sed magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer congue metus ac eros lobortis, ac varius elit fermentum.</p>
-    </section>
-
-    <section id="servicos">
-        <h2>Nossos Serviços</h2>
-        <p>Oferecemos uma gama de serviços voltados para você! Nossos profissionais são altamente capacitados e prontos para realizar seus projetos com eficiência e qualidade.</p>
-    </section>
-
-    <section id="contato">
-        <h2>Contato</h2>
-        <p>Entre em contato conosco pelo e-mail: <strong>contato@sitebonitao.com</strong> ou pelo telefone: <strong>(11) 1234-5678</strong>.</p>
-    </section>
 
     <footer>
         <p>&copy; 2024 - Meu Site Bonitão. Todos os direitos reservados.</p>
