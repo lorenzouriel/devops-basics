@@ -30,5 +30,11 @@ steps:
   inputs:
     containerRegistry: 'Docker Hub Connection'
     repository: 'devops-example'
-    command: 'buildAndPush'
+    command: 'build'
     Dockerfile: '**/AzureDockerfile'
+
+- task: Docker@2
+  inputs:
+    containerRegistry: 'Docker Hub Connection'
+    repository: 'devops-example'
+    command: 'push'
